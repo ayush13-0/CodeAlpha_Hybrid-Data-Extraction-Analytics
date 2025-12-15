@@ -1,5 +1,4 @@
- <img src="https://img.shields.io/badge/🧾📊Hybrid%20Data%20Extraction-Web%20Scraping%20%7C%20API-blueviolet?style=for-the-badge" />
-
+# 🧾📊Hybrid Data Extraction & Analytics
 <p align="center"> <img src="https://img.shields.io/badge/Internship-CodeAlpha%20ML%20Internship-black?style=for-the-badge" /> </p>
 
 <p align="center">
